@@ -1,11 +1,11 @@
 export const siteConfig = {
-  name: "Ashu Kumar",
+  name: "Ashu Tyagi",
   title: "Senior Frontend Engineer",
   headline:
     "React.js · Next.js · TypeScript · UI Architecture · Design Systems · Performance · Accessibility",
   description:
     "Senior Frontend Engineer with 10+ years designing and developing scalable, responsive, and high-performance web applications. Specialized in React.js, Next.js, TypeScript, design systems, Core Web Vitals, WCAG accessibility, and AI-assisted development.",
-  url: "https://ashukumar.dev",
+  url: "https://ashutyagi.dev",
   ogImage: "/og-image.png",
   email: "ashuty114@gmail.com",
   phone: "+91-9310581784",
