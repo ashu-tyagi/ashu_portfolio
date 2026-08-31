@@ -12,7 +12,7 @@ import type {
 
 export const heroContent = {
   greeting: "Senior Frontend Engineer",
-  name: "Ashu Kumar",
+  name: "Ashu Tyagi",
   tagline:
     "Designing and developing scalable, responsive, and high-performance web applications with React.js, Next.js, and TypeScript — backed by 10+ years of frontend engineering expertise.",
   expertise: [
@@ -34,7 +34,7 @@ export const heroContent = {
 export const aboutContent = {
   subtitle: "Senior Frontend Engineer building scalable, high-performance UI",
   intro:
-    "I'm Ashu Kumar — a Senior Frontend Engineer based in Delhi/NCR with 10+ years designing and developing enterprise web applications.",
+    "I'm Ashu Tyagi — a Senior Frontend Engineer based in Delhi/NCR with 10+ years designing and developing enterprise web applications.",
   paragraphs: [
     "Senior Frontend Engineer with 10+ years of experience designing and developing scalable, responsive, and high-performance web applications. Specialized in React.js, Next.js, JavaScript (ES6+), TypeScript, HTML5, CSS3, and SCSS with over 6 years of expertise in modern frontend development.",
     "Experienced in UI Architecture, Design Systems, reusable component libraries, frontend performance optimization, Core Web Vitals, accessibility (WCAG), and responsive design. Skilled at translating Figma designs into production-ready applications.",
